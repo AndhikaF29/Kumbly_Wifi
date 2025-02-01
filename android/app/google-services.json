@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "963126729998",
+    "project_id": "kumblywifi",
+    "storage_bucket": "kumblywifi.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963126729998:android:5772c2b326cb1ba2f10b5f",
+        "android_client_info": {
+          "package_name": "com.example.kumblywifi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF4RUdaaHLItKMGdBbvoMCwZb7-HHR1bc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
